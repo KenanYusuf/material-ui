@@ -6,6 +6,7 @@ const ROUTES = {
   productToolpad: '/toolpad/',
   productTemplates: '/templates/',
   productDesignKits: '/design-kits/',
+  demos: '/demos/',
   careers: '/careers/',
   pricing: '/pricing/',
   about: '/about/',

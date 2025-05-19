@@ -404,6 +404,9 @@ export default function HeaderNavBar() {
           </Popper>
         </li>
         <li>
+          <Link href={ROUTES.demos}>Demos</Link>
+        </li>
+        <li>
           <Link href={ROUTES.pricing}>Pricing</Link>
         </li>
         <li>

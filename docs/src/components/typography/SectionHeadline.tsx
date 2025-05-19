@@ -77,6 +77,7 @@ export default function SectionHeadline(props: SectionHeadlineProps) {
           sx={(theme) => ({
             mt: 1,
             mb: 3,
+            textWrap: 'pretty',
             maxWidth: 500,
             ...(inverted
               ? {
